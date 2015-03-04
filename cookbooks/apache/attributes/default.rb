@@ -8,3 +8,4 @@ when "centos"
   default["service_name"] = "httpd"
   default["document_root"] = "/var/www/html"
 end
+default["company"] = "MY_COMPANY"
